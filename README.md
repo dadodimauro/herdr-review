@@ -23,3 +23,7 @@ PR). Needs `uv`, `git`, `gh` (logged in) and `hc`; optional `ty` (`uv tool insta
 (`npm install -g @mermaid-js/mermaid-cli`).
 
 [RECIPE.md](RECIPE.md) is the full brief to build it from an empty folder.
+
+## License
+
+[WTFPL](LICENSE).
